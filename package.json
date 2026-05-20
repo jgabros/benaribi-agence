@@ -1,0 +1,15 @@
+{
+  "name": "benaribi-monorepo",
+  "private": true,
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "test": "turbo run test",
+    "storybook": "turbo run storybook"
+  },
+  "devDependencies": {
+    "turbo": "latest",
+    "typescript": "^5.0.0"
+  },
+  "packageManager": "pnpm@8.15.0"
+}

@@ -1,0 +1,8 @@
+/* colors.css — brand color tokens */
+@theme {
+  --color-charcoal-black: #1C1C1C;
+  --color-off-white: #F5F3EF;
+  --color-champagne-gold: #C4A35A;
+  --color-teal: #3D8B7A;
+  --color-marble-grey: #E0DDD8;
+}
