@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx skills *)",
+      "Bash(New-Item -ItemType Directory -Force \"F:\\\\DEV\\\\Benaribi Agence\\\\.kiro\\\\steering\")",
+      "Bash(Out-Null)",
+      "Bash(New-Item -ItemType Directory -Force \"F:\\\\DEV\\\\Benaribi Agence\\\\.kiro\\\\specs\\\\design-system\")",
+      "Bash(New-Item -ItemType Directory -Force \"F:\\\\DEV\\\\Benaribi Agence\\\\.kiro\\\\specs\\\\public-website\")",
+      "Bash(New-Item -ItemType Directory -Force \"F:\\\\DEV\\\\Benaribi Agence\\\\.kiro\\\\specs\\\\supabase-foundation\")",
+      "Bash(New-Item -ItemType Directory -Force \"F:\\\\DEV\\\\Benaribi Agence\\\\.kiro\\\\specs\\\\client-portal\")",
+      "Bash(New-Item -ItemType Directory -Force \"F:\\\\DEV\\\\Benaribi Agence\\\\.kiro\\\\specs\\\\fastapi-backend\")",
+      "Bash(Write-Output \"Directories created\")",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git branch *)",
+      "Bash(git remote *)"
+    ]
+  }
+}
