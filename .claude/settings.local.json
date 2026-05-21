@@ -14,7 +14,17 @@
       "Bash(git add *)",
       "Bash(git commit *)",
       "Bash(git branch *)",
-      "Bash(git remote *)"
+      "Bash(git remote *)",
+      "Skill(kiro-spec-status)",
+      "PowerShell(npm install *)",
+      "PowerShell(git ls-remote *)",
+      "PowerShell(git clone *)",
+      "PowerShell(npm show *)",
+      "Bash(dir D:\\\\DEV\\\\Benaribi Agence\\\\packages\\\\ui\\\\src *)",
+      "Skill(kiro-verify-completion)",
+      "PowerShell(pnpm *)",
+      "PowerShell(npx --yes pnpm --version 2>&1)",
+      "Bash(pnpm build-storybook *)"
     ]
   }
 }
