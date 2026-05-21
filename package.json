@@ -5,7 +5,8 @@
     "build": "turbo run build",
     "dev": "turbo run dev",
     "test": "turbo run test",
-    "storybook": "turbo run storybook"
+    "storybook": "turbo run storybook",
+    "db:types": "supabase gen types typescript --local > packages/ui/src/types/database.types.ts"
   },
   "devDependencies": {
     "turbo": "latest",

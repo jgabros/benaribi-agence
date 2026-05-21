@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react';
+import Image from 'next/image';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
@@ -40,7 +41,13 @@ function FooterContent() {
       columns={
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <p className="font-display text-h4 text-off-white mb-2">Benaribi Agence</p>
+            <Image
+              src="/images/logo-white.svg"
+              alt="Benaribi Agence"
+              width={120}
+              height={48}
+              className="h-12 w-auto mb-3"
+            />
             <p className="text-caption text-off-white/60">Premium Real Estate &amp; Investment Advisory</p>
           </div>
           <div>

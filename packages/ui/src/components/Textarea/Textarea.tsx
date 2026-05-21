@@ -1,4 +1,4 @@
-import { useId } from 'react';
+import { forwardRef, useId } from 'react';
 import { cn } from '../../lib/cn';
 
 type TextareaProps =
@@ -28,14 +28,14 @@ const ErrorIcon = () => (
   </svg>
 );
 
-export const Textarea = ({
+export const Textarea = forwardRef<HTMLTextAreaElement, TextareaProps>(({
   state = 'default',
   errorMessage,
   label,
   className,
   id,
   ...props
-}: TextareaProps) => {
+}, ref) => {
   const generatedId = useId();
   const textareaId = id ?? generatedId;
   const errorId = `${textareaId}-error`;
@@ -52,6 +52,7 @@ export const Textarea = ({
         </label>
       )}
       <textarea
+        ref={ref}
         id={textareaId}
         className={cn(
           'w-full min-h-[44px] px-4 py-2.5',
@@ -81,6 +82,8 @@ export const Textarea = ({
       )}
     </div>
   );
-};
+});
+
+Textarea.displayName = 'Textarea';
 
 export type { TextareaProps };

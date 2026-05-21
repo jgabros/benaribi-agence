@@ -22,10 +22,15 @@ export async function generateMetadata({
   return {
     title: 'Benaribi Agence — Premium Real Estate & Investment Advisory in Morocco',
     description: t('subheadline'),
+    alternates: {
+      canonical: `https://benaribi.ma/${locale}/`,
+    },
     openGraph: {
       title: 'Benaribi Agence',
       description: t('subheadline'),
       url: `https://benaribi.ma/${locale}/`,
+      siteName: 'Benaribi Agence',
+      type: 'website',
       images: [{ url: '/assets/images/og-home.jpg', width: 1200, height: 630 }],
     },
     twitter: { card: 'summary_large_image' },

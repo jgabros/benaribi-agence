@@ -15,7 +15,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return {
     title: `${t('hero.title')} — Benaribi Agence`,
     description: t('body.description'),
-    openGraph: { title: t('hero.title'), description: t('body.description'), url: `https://benaribi.ma/${locale}/services/residential/` },
+    alternates: { canonical: `https://benaribi.ma/${locale}/services/residential/` },
+    openGraph: {
+      title: t('hero.title'), description: t('body.description'),
+      url: `https://benaribi.ma/${locale}/services/residential/`,
+      siteName: 'Benaribi Agence', type: 'website',
+      images: [{ url: '/assets/images/og-home.jpg', width: 1200, height: 630 }],
+    },
     twitter: { card: 'summary_large_image' },
   };
 }

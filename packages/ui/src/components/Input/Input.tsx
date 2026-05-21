@@ -1,4 +1,4 @@
-import { useId } from 'react';
+import { forwardRef, useId } from 'react';
 import { cn } from '../../lib/cn';
 
 type InputProps =
@@ -28,14 +28,14 @@ const ErrorIcon = () => (
   </svg>
 );
 
-export const Input = ({
+export const Input = forwardRef<HTMLInputElement, InputProps>(({
   state = 'default',
   errorMessage,
   label,
   className,
   id,
   ...props
-}: InputProps) => {
+}, ref) => {
   const generatedId = useId();
   const inputId = id ?? generatedId;
   const errorId = `${inputId}-error`;
@@ -52,6 +52,7 @@ export const Input = ({
         </label>
       )}
       <input
+        ref={ref}
         id={inputId}
         className={cn(
           'w-full min-h-[44px] px-4 py-2.5',
@@ -81,6 +82,8 @@ export const Input = ({
       )}
     </div>
   );
-};
+});
+
+Input.displayName = 'Input';
 
 export type { InputProps };
