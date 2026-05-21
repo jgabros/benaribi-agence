@@ -52,4 +52,4 @@
 ## Phase 7: Finalization
 - [x] 7.1 Export all components, types, and the `cn` utility from `packages/ui/src/index.ts`.
 - [x] 7.2 Run all Vitest unit tests to ensure pass.
-- [ ] 7.3 Run Storybook build and `a11y` checks to ensure contrast requirements are met.
+- [x] 7.3 Run Storybook build and `a11y` checks to ensure contrast requirements are met.

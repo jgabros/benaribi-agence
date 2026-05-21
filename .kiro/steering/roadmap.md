@@ -33,7 +33,7 @@ The platform must position Benaribi at the same institutional level as JLL, Knig
 ## Specs (dependency order)
 
 ### Track 1 — Frontend
-- [ ] design-system — Brand tokens, typography scale, base component library (React + Tailwind). Dependencies: none
+- [x] design-system — Brand tokens, typography scale, base component library (React + Tailwind). Dependencies: none
 - [ ] public-website — Full public marketing site: all pages, multilingue EN/FR/ES, ROI calculator, lead forms, analytics. Dependencies: design-system
 
 ### Track 2 — Backend/Data

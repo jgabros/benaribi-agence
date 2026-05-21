@@ -24,7 +24,9 @@
       "Skill(kiro-verify-completion)",
       "PowerShell(pnpm *)",
       "PowerShell(npx --yes pnpm --version 2>&1)",
-      "Bash(pnpm build-storybook *)"
+      "Bash(pnpm build-storybook *)",
+      "Bash(node -e ' *)",
+      "Skill(kiro-spec-requirements)"
     ]
   }
 }
