@@ -30,26 +30,26 @@
 - [x] 3.7 Write unit tests and Storybook stories for `Badge`.
 
 ## Phase 4: Layout & Content Primitives
-- [ ] 4.1 Implement `SectionWrapper` component.
-- [ ] 4.2 Implement `Container` component.
-- [ ] 4.3 Write tests and stories for layout components.
-- [ ] 4.4 Implement `Card` compound component (`Card`, `CardImage`, `CardTitle`, `CardBody`).
-- [ ] 4.5 Write unit tests and Storybook stories for `Card`.
+- [x] 4.1 Implement `SectionWrapper` component.
+- [x] 4.2 Implement `Container` component.
+- [x] 4.3 Write tests and stories for layout components.
+- [x] 4.4 Implement `Card` compound component (`Card`, `CardImage`, `CardTitle`, `CardBody`).
+- [x] 4.5 Write unit tests and Storybook stories for `Card`.
 
 ## Phase 5: Brand Elements
-- [ ] 5.1 Implement `Divider` component.
-- [ ] 5.2 Implement `DarkOverlay` component.
-- [ ] 5.3 Implement `GeometricPattern` component (inline SVG).
-- [ ] 5.4 Implement `Isotipo` (inline SVG) and `Logo` components.
-- [ ] 5.5 Write unit tests and Storybook stories for all brand elements.
+- [x] 5.1 Implement `Divider` component.
+- [x] 5.2 Implement `DarkOverlay` component.
+- [x] 5.3 Implement `GeometricPattern` component (inline SVG).
+- [x] 5.4 Implement `Isotipo` (inline SVG) and `Logo` components.
+- [x] 5.5 Write unit tests and Storybook stories for all brand elements.
 
 ## Phase 6: Structural Shells
-- [ ] 6.1 Implement `NavigationBar` component with mobile toggle state.
-- [ ] 6.2 Write unit tests and Storybook stories for `NavigationBar`.
-- [ ] 6.3 Implement `Footer` component.
-- [ ] 6.4 Write unit tests and Storybook stories for `Footer`.
+- [x] 6.1 Implement `NavigationBar` component with mobile toggle state.
+- [x] 6.2 Write unit tests and Storybook stories for `NavigationBar`.
+- [x] 6.3 Implement `Footer` component.
+- [x] 6.4 Write unit tests and Storybook stories for `Footer`.
 
 ## Phase 7: Finalization
-- [ ] 7.1 Export all components, types, and the `cn` utility from `packages/ui/src/index.ts`.
-- [ ] 7.2 Run all Vitest unit tests to ensure pass.
+- [x] 7.1 Export all components, types, and the `cn` utility from `packages/ui/src/index.ts`.
+- [x] 7.2 Run all Vitest unit tests to ensure pass.
 - [ ] 7.3 Run Storybook build and `a11y` checks to ensure contrast requirements are met.
