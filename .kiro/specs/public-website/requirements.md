@@ -64,12 +64,12 @@ The public-website is the primary digital presence for Benaribi Agence at benari
 #### Acceptance Criteria
 
 1. The `/investment` page shall describe Morocco's investment landscape and the key provisions of the Charte de l'Investissement 2022.
-2. The `/investment` page shall embed an interactive ROI Fiscal Calculator accepting the following inputs: investment capital (EUR amount), sector (Residential / Industrial / Company Setup), and investor type (Individual / Corporate / Foreign Entity).
-3. When all required calculator inputs are provided and valid, the Public Website shall display: applicable Moroccan tax exemptions, an estimated tax cost, and an estimated net return range.
+2. The `/investment` page shall embed an interactive ROI Fiscal Calculator accepting the following inputs: investment capital (EUR amount), sector (Residential / Industrial / Company Setup), and country of origin (text input, e.g. France, Spain).
+3. When all required calculator inputs are provided and valid, the Public Website shall display: applicable Moroccan tax exemptions, an estimated fiscal cost range, and an estimated process timeline in weeks.
 4. When a required calculator input is missing or contains an invalid value, the Public Website shall display an inline validation message identifying the problematic field.
 5. The ROI calculator shall produce all outputs without making any network requests.
 6. The `/investment` page shall display a disclaimer stating that calculator results are indicative only and do not constitute legal or fiscal advice.
-7. When a visitor completes the calculator, the Public Website shall display a CTA encouraging them to contact Benaribi for a full fiscal analysis.
+7. When a visitor views the calculator results, the Public Website shall display a CTA to download a full fiscal analysis PDF; when activated, the Public Website shall present an email capture gate before delivering the PDF download, and shall record the email in the HubSpot Free CRM.
 
 ---
 

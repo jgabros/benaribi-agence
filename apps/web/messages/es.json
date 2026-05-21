@@ -1,0 +1,241 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "residential": "Residencial",
+    "industrial": "Industrial",
+    "companySetup": "Constitución de sociedad",
+    "investment": "Inversión",
+    "about": "Quiénes somos",
+    "resources": "Recursos",
+    "contact": "Contacto",
+    "ctaLabel": "Reservar consulta"
+  },
+  "footer": {
+    "address": "Nador West Med, Nador, Marruecos",
+    "phone": "+212 676 72 61 19",
+    "email": "contact@benaribi.ma",
+    "tagline": "Asesoría premium en inmobiliaria e inversión"
+  },
+  "home": {
+    "hero": {
+      "headline": "Su puerta de acceso a la inversión en Marruecos",
+      "subheadline": "Asesoría experta para HNWI y empresas industriales que acceden al mercado de Nador West Med.",
+      "cta": "Explorar oportunidades de inversión"
+    },
+    "services": {
+      "title": "Nuestros servicios",
+      "residential": {
+        "title": "Inmobiliaria residencial",
+        "description": "Adquisición de propiedades premium y gestión de cartera en los mercados de lujo emergentes de Marruecos."
+      },
+      "industrial": {
+        "title": "Inmobiliaria industrial",
+        "description": "Terrenos e instalaciones industriales en la zona franca de Nador West Med y parques industriales adyacentes."
+      },
+      "companySetup": {
+        "title": "Constitución de sociedad",
+        "description": "Constitución integral de empresas y estructuración fiscal para inversores extranjeros que entran en Marruecos."
+      }
+    },
+    "whyMorocco": {
+      "title": "Por qué Marruecos",
+      "gdp": "Crecimiento del PIB constantemente por encima del 3 % — una de las economías más estables de África.",
+      "fdi": "Entradas de IED que alcanzaron 3.600 M$ en 2023, impulsadas por la Charte de l'Investissement 2022.",
+      "nadWestMed": "Nador West Med: el complejo portuario de aguas profundas más grande de África, con 12.000 M€ en inversión industrial comprometida."
+    },
+    "whyBenaribi": {
+      "title": "Por qué Benaribi Agence",
+      "local": "Profundo conocimiento local de Nador West Med — experiencia de mercado que ninguna firma internacional puede replicar.",
+      "fiscal": "Asesoría fiscal y jurídica integrada — un único interlocutor para todo el ciclo de inversión.",
+      "track": "Trayectoria probada con clientes HNWI e institucionales de Europa y el Golfo."
+    },
+    "cta": {
+      "title": "¿Listo para invertir en Marruecos?",
+      "subtitle": "Programe una consulta con nuestro equipo de asesores.",
+      "primary": "Contáctenos",
+      "secondary": "Explorar la calculadora de inversión"
+    }
+  },
+  "services": {
+    "residential": {
+      "hero": {
+        "title": "Inmobiliaria residencial",
+        "subtitle": "Servicios de adquisición premium en los mercados residenciales más prometedores de Marruecos."
+      },
+      "body": {
+        "description": "Benaribi Agence conecta a inversores internacionales con activos residenciales de alta calidad en Nador y sus alrededores, proporcionando soporte integral desde la identificación del inmueble hasta la firma notarial.",
+        "benefits": [
+          "Cartera de propiedades fuera de mercado seleccionadas",
+          "Coordinación notarial y jurídica completa",
+          "Gestión de alquileres y optimización de rendimientos",
+          "Asesoramiento sobre repatriación de capitales"
+        ]
+      },
+      "cta": "Hablar sobre su inversión residencial"
+    },
+    "industrial": {
+      "hero": {
+        "title": "Inmobiliaria industrial",
+        "subtitle": "Terrenos e instalaciones industriales en la zona franca más ambiciosa de África."
+      },
+      "body": {
+        "description": "Nador West Med ofrece una infraestructura logística incomparable para inversores industriales. Benaribi Agence le guía en la selección de terrenos, las negociaciones con el CRI y la estructuración fiscal dentro de la zona.",
+        "benefits": [
+          "Acceso directo a parcelas de la zona franca de Nador West Med",
+          "Apoyo en negociaciones CRI e IDTL",
+          "Estructuración de exención de IS (0 % durante 5 años)",
+          "Asesoramiento en conectividad logística y cadena de suministro"
+        ]
+      },
+      "cta": "Explorar oportunidades industriales"
+    },
+    "companySetup": {
+      "hero": {
+        "title": "Constitución de sociedad",
+        "subtitle": "Desde la constitución hasta el cumplimiento fiscal total — lo gestionamos todo."
+      },
+      "body": {
+        "description": "Establecer una entidad comercial en Marruecos requiere navegar el registro en la OMPIC, las obligaciones de la CNSS y los incentivos de la Charte de l'Investissement 2022. Benaribi Agence coordina el proceso completo con socios jurídicos locales.",
+        "benefits": [
+          "Constitución de SARL y SA en 6-16 semanas",
+          "Registro en OMPIC, CNSS y administración tributaria",
+          "Calificación para exención de IS bajo la Charte 2022",
+          "Apertura de cuenta bancaria e importación de capital"
+        ]
+      },
+      "cta": "Crear su empresa en Marruecos"
+    }
+  },
+  "investment": {
+    "hero": {
+      "title": "Invertir en Marruecos",
+      "subtitle": "La Charte de l'Investissement 2022 — Comprenda sus ventajas fiscales"
+    },
+    "landscape": {
+      "title": "El panorama de inversión en Marruecos",
+      "charte": "La Charte de l'Investissement 2022 (Ley 03-22) establece un nuevo marco de exenciones fiscales, subvenciones y procedimientos simplificados para inversores extranjeros y nacionales.",
+      "nwm": "Nador West Med posiciona a Marruecos como hub industrial mediterráneo, con 12.000 M€ comprometidos en logística, industria e inmobiliaria."
+    },
+    "calculator": {
+      "title": "Calculadora fiscal ROI",
+      "subtitle": "Obtenga una estimación fiscal indicativa para su inversión en Marruecos.",
+      "capital": "Capital a invertir (EUR)",
+      "capitalPlaceholder": "ej. 500000",
+      "sector": "Sector",
+      "sectorPlaceholder": "Seleccione un sector",
+      "sectorResidential": "Inmobiliaria residencial",
+      "sectorIndustrial": "Inmobiliaria industrial",
+      "sectorCompanySetup": "Constitución de sociedad",
+      "country": "País de origen",
+      "countryPlaceholder": "ej. Francia, España, Alemania",
+      "calculate": "Calcular",
+      "results": {
+        "title": "Su estimación fiscal indicativa",
+        "tier": "Tramo de inversión",
+        "tierSmall": "Inicial (< 100.000 €)",
+        "tierMid": "Intermedio (100.000 € – 2 M€)",
+        "tierLarge": "Ancla (> 2 M€)",
+        "exemptions": "Exenciones fiscales aplicables",
+        "costRange": "Coste estimado de configuración fiscal",
+        "timeline": "Plazo estimado del proceso",
+        "weeks": "semanas",
+        "treatyBonus": "Ventaja de convenio: Marruecos tiene un convenio fiscal con su país de origen — pueden aplicarse exenciones de retención en la fuente.",
+        "downloadCta": "Descargar análisis fiscal completo (PDF)"
+      },
+      "disclaimer": "Estas estimaciones son meramente indicativas y no constituyen asesoramiento jurídico ni fiscal. Consulte a un asesor cualificado antes de tomar decisiones de inversión.",
+      "validation": {
+        "capitalRequired": "El capital de inversión es obligatorio.",
+        "capitalPositive": "El capital debe ser un número positivo.",
+        "sectorRequired": "Por favor, seleccione un sector.",
+        "countryRequired": "El país de origen es obligatorio."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Sobre Benaribi Agence",
+      "subtitle": "Asesoría de nivel institucional. Experiencia local."
+    },
+    "story": {
+      "title": "Nuestra historia",
+      "text": "Benaribi Agence fue fundada para tender un puente entre el capital internacional y la zona de inversión más dinámica de Marruecos. Con sede en Nador, a las puertas de Nador West Med, combinamos un profundo conocimiento del mercado local con estándares de asesoría de nivel institucional."
+    },
+    "positioning": {
+      "title": "Nuestro posicionamiento",
+      "text": "Servimos a HNWI, family offices y empresas industriales que buscan exposición a la economía de alto crecimiento de Marruecos — ofreciendo el mismo nivel de rigor y discreción que los mejores asesores inmobiliarios del mundo, con una presencia local inigualable."
+    },
+    "team": {
+      "title": "Nuestro equipo",
+      "lead": {
+        "name": "Equipo de asesores Benaribi Agence",
+        "role": "Asesores senior de inversión",
+        "bio": "Especializados en inversión industrial en Nador West Med y estructuración fiscal transfronteriza en Marruecos."
+      }
+    },
+    "cta": "Ponerse en contacto"
+  },
+  "resources": {
+    "hero": {
+      "title": "Recursos de inversión",
+      "subtitle": "Herramientas de investigación y guías para invertir en Marruecos."
+    },
+    "guide": {
+      "title": "Guía de inversión en Marruecos 2026",
+      "description": "Una guía completa para invertir en Marruecos: marco jurídico, incentivos fiscales, visión general de Nador West Med y proceso de establecimiento paso a paso. Más de 40 páginas de información práctica.",
+      "cta": "Descargar guía gratuita",
+      "badge": "Descarga gratuita"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contactar con Benaribi Agence",
+      "subtitle": "Nuestro equipo suele responder en un día hábil."
+    },
+    "form": {
+      "firstname": "Nombre",
+      "lastname": "Apellidos",
+      "email": "Correo electrónico",
+      "country": "País de origen",
+      "serviceInterest": "Servicio de interés",
+      "serviceResidential": "Inmobiliaria residencial",
+      "serviceIndustrial": "Inmobiliaria industrial",
+      "serviceCompanySetup": "Constitución de sociedad",
+      "serviceOther": "Otro / Consulta general",
+      "budgetRange": "Presupuesto de inversión (EUR)",
+      "budget50k": "Menos de 50.000 €",
+      "budget100k": "50.000 € – 100.000 €",
+      "budget500k": "100.000 € – 500.000 €",
+      "budget2m": "500.000 € – 2.000.000 €",
+      "budgetLarge": "Más de 2.000.000 €",
+      "submit": "Enviar consulta",
+      "submitting": "Enviando…",
+      "success": "Gracias — nos pondremos en contacto en un día hábil.",
+      "error": "Algo salió mal. Por favor, inténtelo de nuevo o contáctenos directamente.",
+      "required": "Este campo es obligatorio.",
+      "invalidEmail": "Por favor, introduzca una dirección de correo electrónico válida."
+    },
+    "alternatives": {
+      "title": "Otras formas de contactarnos",
+      "whatsapp": "WhatsApp",
+      "email": "Correo electrónico",
+      "address": "Oficina"
+    }
+  },
+  "emailGate": {
+    "title": "Descargar su informe gratuito",
+    "description": "Introduzca su correo electrónico para recibir el PDF al instante.",
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "usted@ejemplo.com",
+    "submit": "Descargar ahora",
+    "submitting": "Preparando…",
+    "error": "No pudimos registrar su correo, pero su descarga está comenzando.",
+    "invalidEmail": "Por favor, introduzca una dirección de correo electrónico válida."
+  },
+  "common": {
+    "learnMore": "Saber más",
+    "contactUs": "Contáctenos",
+    "close": "Cerrar",
+    "backToHome": "Volver al inicio"
+  }
+}

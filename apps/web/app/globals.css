@@ -1,0 +1,43 @@
+@import "tailwindcss";
+/* Scan monorepo design-system source for Tailwind class names */
+@source "../../../packages/ui/src";
+
+/* Self-hosted fonts via @fontsource */
+@import "@fontsource/cormorant-garamond/400.css";
+@import "@fontsource/cormorant-garamond/400-italic.css";
+@import "@fontsource/cormorant-garamond/700.css";
+@import "@fontsource/dm-sans/400.css";
+@import "@fontsource/dm-sans/500.css";
+
+/* Brand tokens — mirrors @benaribi/ui design-system */
+@theme {
+  --color-charcoal-black: #1C1C1C;
+  --color-off-white: #F5F3EF;
+  --color-champagne-gold: #C4A35A;
+  --color-teal: #3D8B7A;
+  --color-marble-grey: #E0DDD8;
+
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'DM Sans', system-ui, sans-serif;
+
+  --text-display: 3.5rem;
+  --text-h1: 2.5rem;
+  --text-h2: 2rem;
+  --text-h3: 1.5rem;
+  --text-h4: 1.25rem;
+  --text-body: 1rem;
+  --text-caption: 0.875rem;
+
+  --spacing-1: 0.25rem;
+  --spacing-2: 0.5rem;
+  --spacing-3: 0.75rem;
+  --spacing-4: 1rem;
+  --spacing-5: 1.25rem;
+  --spacing-6: 1.5rem;
+  --spacing-8: 2rem;
+  --spacing-10: 2.5rem;
+  --spacing-12: 3rem;
+  --spacing-16: 4rem;
+  --spacing-24: 6rem;
+  --spacing-32: 8rem;
+}

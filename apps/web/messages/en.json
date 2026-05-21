@@ -1,0 +1,241 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "residential": "Residential",
+    "industrial": "Industrial",
+    "companySetup": "Company Setup",
+    "investment": "Investment",
+    "about": "About",
+    "resources": "Resources",
+    "contact": "Contact",
+    "ctaLabel": "Book a Consultation"
+  },
+  "footer": {
+    "address": "Nador West Med, Nador, Morocco",
+    "phone": "+212 676 72 61 19",
+    "email": "contact@benaribi.ma",
+    "tagline": "Premium Real Estate & Investment Advisory"
+  },
+  "home": {
+    "hero": {
+      "headline": "Your Gateway to Morocco Investment",
+      "subheadline": "Expert advisory for HNWIs and industrial companies entering the Nador West Med market.",
+      "cta": "Explore Investment Opportunities"
+    },
+    "services": {
+      "title": "Our Services",
+      "residential": {
+        "title": "Residential Real Estate",
+        "description": "Premium property acquisition and portfolio management in Morocco's emerging luxury markets."
+      },
+      "industrial": {
+        "title": "Industrial Real Estate",
+        "description": "Industrial land and facilities within Nador West Med free zone and surrounding industrial parks."
+      },
+      "companySetup": {
+        "title": "Company Setup",
+        "description": "End-to-end company incorporation and fiscal structuring for foreign investors entering Morocco."
+      }
+    },
+    "whyMorocco": {
+      "title": "Why Morocco",
+      "gdp": "GDP growth consistently above 3% — one of Africa's most stable economies.",
+      "fdi": "FDI inflows reaching $3.6B in 2023, driven by the Charte de l'Investissement 2022.",
+      "nadWestMed": "Nador West Med: Africa's largest deep-water port complex, attracting €12B in industrial investment."
+    },
+    "whyBenaribi": {
+      "title": "Why Benaribi Agence",
+      "local": "Deep local expertise in Nador West Med — market knowledge no international firm can replicate.",
+      "fiscal": "Integrated fiscal and legal advisory — one interlocutor for the full investment lifecycle.",
+      "track": "Proven track record with HNWI and institutional clients across Europe and the Gulf."
+    },
+    "cta": {
+      "title": "Ready to Invest in Morocco?",
+      "subtitle": "Schedule a consultation with our advisory team.",
+      "primary": "Contact Us",
+      "secondary": "Explore the Investment Calculator"
+    }
+  },
+  "services": {
+    "residential": {
+      "hero": {
+        "title": "Residential Real Estate",
+        "subtitle": "Premium acquisition services in Morocco's most promising residential markets."
+      },
+      "body": {
+        "description": "Benaribi Agence connects international investors with high-quality residential assets in Nador and surrounding regions, providing end-to-end transaction support from property identification to notarial completion.",
+        "benefits": [
+          "Curated off-market property pipeline",
+          "Full notarial and legal coordination",
+          "Rental management and yield optimisation",
+          "Capital repatriation guidance"
+        ]
+      },
+      "cta": "Discuss Your Residential Investment"
+    },
+    "industrial": {
+      "hero": {
+        "title": "Industrial Real Estate",
+        "subtitle": "Industrial land and facilities within Africa's most ambitious free zone."
+      },
+      "body": {
+        "description": "Nador West Med offers unparalleled logistics infrastructure for industrial investors. Benaribi Agence guides you through site selection, CRI negotiations, and fiscal structuring within the zone.",
+        "benefits": [
+          "Direct access to Nador West Med free zone parcels",
+          "CRI and IDTL negotiation support",
+          "IS exemption structuring (0% for 5 years)",
+          "Logistics and supply chain connectivity advice"
+        ]
+      },
+      "cta": "Explore Industrial Opportunities"
+    },
+    "companySetup": {
+      "hero": {
+        "title": "Company Setup",
+        "subtitle": "From incorporation to full fiscal compliance — we handle it all."
+      },
+      "body": {
+        "description": "Setting up a business entity in Morocco requires navigating OMPIC registration, CNSS obligations, and the Charte de l'Investissement 2022 incentives. Benaribi Agence coordinates the full process with local legal partners.",
+        "benefits": [
+          "SARL and SA incorporation in 6–16 weeks",
+          "OMPIC, CNSS, and tax authority registration",
+          "IS exemption qualification under Charte 2022",
+          "Banking relationship setup and capital import"
+        ]
+      },
+      "cta": "Start Your Company in Morocco"
+    }
+  },
+  "investment": {
+    "hero": {
+      "title": "Invest in Morocco",
+      "subtitle": "The Charte de l'Investissement 2022 — Understanding Your Fiscal Advantage"
+    },
+    "landscape": {
+      "title": "Morocco's Investment Landscape",
+      "charte": "The Charte de l'Investissement 2022 (Law 03-22) establishes a new framework of tax exemptions, grants, and streamlined procedures for foreign and domestic investors.",
+      "nwm": "Nador West Med positions Morocco as a Mediterranean industrial hub, with €12B committed across logistics, industry, and real estate."
+    },
+    "calculator": {
+      "title": "ROI Fiscal Calculator",
+      "subtitle": "Get an indicative fiscal estimate for your Morocco investment.",
+      "capital": "Investment Capital (EUR)",
+      "capitalPlaceholder": "e.g. 500000",
+      "sector": "Sector",
+      "sectorPlaceholder": "Select a sector",
+      "sectorResidential": "Residential Real Estate",
+      "sectorIndustrial": "Industrial Real Estate",
+      "sectorCompanySetup": "Company Setup",
+      "country": "Country of Origin",
+      "countryPlaceholder": "e.g. France, Spain, Germany",
+      "calculate": "Calculate",
+      "results": {
+        "title": "Your Indicative Fiscal Estimate",
+        "tier": "Investment Tier",
+        "tierSmall": "Starter (< €100k)",
+        "tierMid": "Mid-range (€100k – €2M)",
+        "tierLarge": "Anchor (> €2M)",
+        "exemptions": "Applicable Tax Exemptions",
+        "costRange": "Estimated Fiscal Setup Cost",
+        "timeline": "Estimated Process Timeline",
+        "weeks": "weeks",
+        "treatyBonus": "Treaty Advantage: Morocco has a tax treaty with your country of origin — withholding tax exemptions may apply.",
+        "downloadCta": "Download Full Fiscal Analysis (PDF)"
+      },
+      "disclaimer": "These estimates are indicative only and do not constitute legal or fiscal advice. Consult a qualified advisor before making investment decisions.",
+      "validation": {
+        "capitalRequired": "Investment capital is required.",
+        "capitalPositive": "Capital must be a positive number.",
+        "sectorRequired": "Please select a sector.",
+        "countryRequired": "Country of origin is required."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Benaribi Agence",
+      "subtitle": "Institutional-grade advisory. Local expertise."
+    },
+    "story": {
+      "title": "Our Story",
+      "text": "Benaribi Agence was founded to bridge the gap between international capital and Morocco's most dynamic investment zone. Based in Nador, at the gateway to Nador West Med, we combine deep local market knowledge with institutional-grade advisory standards."
+    },
+    "positioning": {
+      "title": "Our Positioning",
+      "text": "We serve HNWIs, family offices, and industrial companies seeking exposure to Morocco's high-growth economy — providing the same level of rigour and discretion as the world's leading real estate advisors, with unmatched local presence."
+    },
+    "team": {
+      "title": "Our Team",
+      "lead": {
+        "name": "Benaribi Agence Advisory Team",
+        "role": "Senior Investment Advisors",
+        "bio": "Specialised in Nador West Med industrial investment and Morocco cross-border fiscal structuring."
+      }
+    },
+    "cta": "Get in Touch"
+  },
+  "resources": {
+    "hero": {
+      "title": "Investment Resources",
+      "subtitle": "Research tools and guides for Morocco investment."
+    },
+    "guide": {
+      "title": "Morocco Investment Guide 2026",
+      "description": "A comprehensive guide to investing in Morocco: legal framework, fiscal incentives, Nador West Med overview, and step-by-step setup process. 40+ pages of actionable intelligence.",
+      "cta": "Download Free Guide",
+      "badge": "Free Download"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Benaribi Agence",
+      "subtitle": "Our advisory team typically responds within one business day."
+    },
+    "form": {
+      "firstname": "First Name",
+      "lastname": "Last Name",
+      "email": "Email Address",
+      "country": "Country of Origin",
+      "serviceInterest": "Service Interest",
+      "serviceResidential": "Residential Real Estate",
+      "serviceIndustrial": "Industrial Real Estate",
+      "serviceCompanySetup": "Company Setup",
+      "serviceOther": "Other / General Enquiry",
+      "budgetRange": "Investment Budget (EUR)",
+      "budget50k": "Under €50,000",
+      "budget100k": "€50,000 – €100,000",
+      "budget500k": "€100,000 – €500,000",
+      "budget2m": "€500,000 – €2,000,000",
+      "budgetLarge": "Above €2,000,000",
+      "submit": "Send Enquiry",
+      "submitting": "Sending…",
+      "success": "Thank you — we'll be in touch within one business day.",
+      "error": "Something went wrong. Please try again or contact us directly.",
+      "required": "This field is required.",
+      "invalidEmail": "Please enter a valid email address."
+    },
+    "alternatives": {
+      "title": "Other Ways to Reach Us",
+      "whatsapp": "WhatsApp",
+      "email": "Email",
+      "address": "Office"
+    }
+  },
+  "emailGate": {
+    "title": "Download Your Free Report",
+    "description": "Enter your email to receive the PDF instantly.",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "you@example.com",
+    "submit": "Download Now",
+    "submitting": "Preparing…",
+    "error": "We couldn't register your email, but your download is starting.",
+    "invalidEmail": "Please enter a valid email address."
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "close": "Close",
+    "backToHome": "Back to Home"
+  }
+}

@@ -3,13 +3,17 @@
   "tasks": {
     "build": {
       "dependsOn": ["^build"],
-      "outputs": ["dist/**"]
+      "outputs": ["dist/**", ".next/**", "out/**"]
     },
     "dev": {
       "cache": false,
       "persistent": true
     },
     "test": {
+      "dependsOn": ["build"],
+      "outputs": []
+    },
+    "e2e": {
       "dependsOn": ["build"],
       "outputs": []
     },
